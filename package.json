@@ -1,0 +1,16 @@
+{
+  "name": "hgbot",
+  "version": "1.0.0",
+  "description": "hunger games simulator discord bot",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "lowdb": "^1.0.0"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "license": "GPLv3"
+}
